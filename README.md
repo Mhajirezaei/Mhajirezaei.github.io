@@ -107,14 +107,6 @@ We are Sanay and Sonay Hajirezaei, 15-year-old twin sisters from Iran, actively 
 
 ---
 
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mhajirezaei&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📫 Contact
 
 - Email: **info@sanay-sonay.ir**
