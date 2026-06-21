@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, we're Sanay & Sonay Hajirazayi</h1>
+<h1 align="center">👋 Hi, we're Sanay & Sonay Hajirazaei</h1>
 
 <p align="center">
   Two 15-year-old twin sisters from Iran, passionate about Science, Technology, Innovation, Artificial Intelligence, and Software Development.
